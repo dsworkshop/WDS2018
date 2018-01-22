@@ -8,7 +8,7 @@
 
 **Dr. Vadim Savenkov** is a post-doc researcher in the Vienna University of Economics and Business (WU). He did his PhD on the foundations of information integration in Vienna University of Technology (2012). His research spans various topics of data integration on the Web, including querying and updates in the Semantic Web context. He is running an Austrian research project CommuniData.at, which aims at increasing the accessibility of Open Data for the end users.
 
-**Laura Koesten** is a Marie Curie Skłodowska fellow, doing her PhD at the Open Data Institute and at the University of Southampton in the UK. She is part of WDAqua, a European Union’s Horizon 2020 initiative to advance state of the art Question Answering. Her research interests are Human Computer Interaction, Interactive Information Retrieval with a focus on dataset retrieval, Open Data and and Semantic Interfaces. In her PhD she is looking at ways to improve Human Data Interaction in IIR systems. She publishes at CHI and CHIIR and has a background in Human Factors, with an MSc from Loughborough University.
+**Laura Koesten** is a Marie Curie Skłodowska fellow, doing her PhD at the Open Data Institute and at the University of Southampton in the UK. She is part of WDAqua, a European Union’s Horizon 2020 initiative to advance state of the art Question Answering. Her research interests are Human Computer Interaction, Interactive Information Retrieval with a focus on dataset retrieval, Open Data and and Semantic Interfaces. In her PhD she is looking at ways to improve Human Data Interaction in IIR systems. She publishes at CHI and has a background in Human Factors, with an MSc from Loughborough University.
 
 ## [](#programm-committee) Program Committee
 
